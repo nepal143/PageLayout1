@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##How To Start the App 
+1) Open the project in Vs Code
+2) insite the terminal write 2 commands
+     a) npm i
+     b) npm start
+3) when the project get started it will automatically redirect you to the localhost:3000 
+
 ## Available Scripts
 
 In the project directory, you can run:
